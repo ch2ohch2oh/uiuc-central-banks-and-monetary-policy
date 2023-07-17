@@ -66,3 +66,31 @@ T notes - maturity 2 years to 10 years
 T bonds - maturity greater than 10 years
 
 
+### Term structure
+
+Bond price and yield move in different directions.
+
+Yield curve embeds interest rate expectations.
+
+### Money market mutual funds
+
+Long time ago, there was a ceiling for the bank 
+deposit rate. Money market funds were not subject
+to this limit.
+
+Money funds lend cash to all types of financial institutions.
+
+Money market funds are **not FDIC insured**.
+
+### Securitization
+
+Total market value of asset backed securities peaked at 
+around 4500B before 2008.
+
+Divide a pool of mortgates into different "tiers" with different 
+risks, and different interest rates.
+
+Securitization increases the total supply of credict in the economy.
+
+[More on money market fund breaking the buck](https://www.investopedia.com/terms/b/breaking-the-buck.asp#citation-6)
+
