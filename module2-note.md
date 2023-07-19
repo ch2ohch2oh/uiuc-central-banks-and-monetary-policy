@@ -91,3 +91,39 @@ In general,
 discount rate > fed funds rate
 ```
 
+
+### Forward guidance
+
+This is an unconventional monetary policy tool.
+It is a form of communication to signal FOMC's
+policy intentions to the public.
+
+
+The forward guidance is worded carefully,
+and the financial analysts pay close attention to it.
+
+
+### Large-scale asset purchases
+
+Large-scale asset purchase is also called QE.
+QE mostly influences long term interest rate.
+
+
+### Reverse repo
+
+The fed wants to reduce its balance sheet, but 
+large scale asset sale is undesirable due to
+1. price impact
+2. spillover in other markets
+
+Goal
+1. drain reserves
+2. provide lower bound for federal funds rate
+3. overnight cash market
+4. no balance sheet impact
+
+The fed uses reverse repo to **borrow** money from the banks.
+Note this action reduces the level of bank reserves. 
+
+
+
