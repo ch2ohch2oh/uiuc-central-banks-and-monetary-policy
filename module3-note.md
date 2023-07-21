@@ -32,3 +32,23 @@ identify three Philips curve if you look more closely.
 ???
 
 
+### How changes in monetary policy affects the economy?
+
+The short term interest rate and the fed funds rate 
+move alongside each other.
+
+Interest rate affects
+- Cost of financing
+- Import and export
+- Stock valuation (due to cash flow discount)
+
+
+### The bank lending channel
+
+How banks make money? Since the long term interest rate is 
+higher than the short term rate, the banks make money by
+borrowing short and lending long. 
+
+Money policy influences the profit margin of the banks,
+and thus the overall credit supply in the market. 
+
