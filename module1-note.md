@@ -94,3 +94,14 @@ Securitization increases the total supply of credict in the economy.
 
 [More on money market fund breaking the buck](https://www.investopedia.com/terms/b/breaking-the-buck.asp#citation-6)
 
+
+# Stagflation
+
+Stagflation = stagnation + inflation
+
+Stagflation in the 1970s and 1980s in the United States
+- High oil price
+- High unemployment
+
+
+
