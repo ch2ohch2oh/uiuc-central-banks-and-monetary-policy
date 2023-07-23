@@ -41,3 +41,26 @@ Glass-Steagall Act 1933
 - Separation of commercial and investment banking
 - Creation of FDIC
 
+### Auto loans during the 2008 financial crisis
+
+Those companies (not banks) issuing car loans
+were acting as banks but did not have access
+to FED funds in case of emergency.
+
+
+### Credit booms and busts
+
+
+### Liquidity provision during the 2008 financial crisis
+
+
+### Fiscal responses
+
+Output is the sum of 
+- Consumption
+- Investment
+- Government spending 
+- Net exports
+
+
+
